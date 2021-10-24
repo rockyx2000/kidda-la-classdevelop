@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header{
+	background-color: #0c9;
+	text-align: center;
+}
+
+section{
+	background-color: #fff;
+
+}
+
+table{width: 700px;}
+tr,td{text-align: left;}
+
+footer{
+	background-color: #0c9;
+	text-align: center;
+}
